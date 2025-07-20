@@ -14,7 +14,7 @@ A comprehensive mobile application designed as an intelligent farming companion 
 
 🔗 **[Try the Live Demo](https://krishimitr.netlify.app/)**
 
-*Experience KrishiMitra directly in your browser or mobile device*
+*Experience KrishiMitra directly in your  mobile device*
 
 ## ✨ Features
 
