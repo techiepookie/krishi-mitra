@@ -343,7 +343,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Support & Contact
 
 - 🌐 **Live Demo:** [https://krishimitr.netlify.app/](https://krishimitr.netlify.app/)
-- 📧 **Email:** support@krishimitra.com
+- 📧 **Email:** nikhilkunar1241@outlook.com
 - 🐛 **Issues:** [GitHub Issues](https://github.com/techiepookie/krishi-mitra/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/techiepookie/krishi-mitra/discussions)
 
